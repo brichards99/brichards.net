@@ -1,0 +1,9 @@
+baseURL = "http://www.brichards.net/"
+languageCode = "en-us"
+title = "brian richards and his stuff"
+theme = 'code-editor'
+[params]
+    author = "Brian Richards"
+    locale = "en-US"
+    #rootlink = "/"
+    # rootlink specifies where Root in menu.html links to. If it's not set then baseurl will be used.
