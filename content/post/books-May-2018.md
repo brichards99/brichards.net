@@ -11,4 +11,12 @@ The following were books I finished reading during the month of May.
 * Pet Semetery - Stephen King
 * A Long Way to A Small, Angry Planet - Becky Chambers
 * Dark Disciple - Christie Golden
+* Casino Royale - Ian Fleming
+* From Russia With Love - Ian Fleming
+* A Clockwork Orange - Anthony Burgess
+* Quiet - Susan Cain
+
+
+
+
 
