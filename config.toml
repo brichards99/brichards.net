@@ -2,6 +2,8 @@ baseURL = "http://www.brichards.net/"
 languageCode = "en-us"
 title = "Brian Richards and his stuff"
 theme = "purehugo"
+Paginate = 10
+disqusShortname = "xxxx"
 [params]
     author = "Brian Richards"
     locale = "en-US"
