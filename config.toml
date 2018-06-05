@@ -1,11 +1,16 @@
 baseURL = "http://www.brichards.net/"
 languageCode = "en-us"
 title = "Brian Richards and his stuff"
-theme = "purehugo"
-Paginate = 10
+theme    = "sp-minimal"
+Paginate = 5
 disqusShortname = "xxxx"
 [params]
     author = "Brian Richards"
     locale = "en-US"
+  #"single" or "multi"
+  renderType = "multi"
+  #"simple" or "original"
+  themeStyle = "simple"
+
     #rootlink = "/"
     # rootlink specifies where Root in menu.html links to. If it's not set then baseurl will be used.
