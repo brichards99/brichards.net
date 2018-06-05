@@ -1,0 +1,10 @@
+language: go
+install:
+- got get -v github.com/brichards99/brichards.net
+script:
+- hugo version
+- make build
+branches:
+ only:
+ - master
+ 
