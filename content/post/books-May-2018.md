@@ -1,7 +1,7 @@
 ---
 title: "Books May 2018"
-date: 2018-05-22T15:13:41-04:00
-draft: true
+date: 2018-06-01T15:13:41-04:00
+draft: false
 ---
 The following were books I finished reading during the month of May.
 
