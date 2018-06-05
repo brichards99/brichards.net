@@ -1,7 +1,7 @@
 baseURL = "http://www.brichards.net/"
 languageCode = "en-us"
 title = "Brian Richards and his stuff"
-theme    = "dream"
+theme    = "ananke"
 Paginate = 5
 disqusShortname = "xxxx"
 [params]
