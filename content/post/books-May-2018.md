@@ -16,7 +16,11 @@ The following were books I finished reading during the month of May.
 * A Clockwork Orange - Anthony Burgess
 * Quiet - Susan Cain
 
+What I discoverd this month was that Ian Fleming is a really fun writer. The two James Bond books I read were exciting and interesting, although a touch heavy handed with the male chauvenism. 
 
+A Clockwork Orange, by the way, turned out to be a much more accessible story than I expected, and I'm glad I picked it up because the vivid imagery of the Stanley Kubric film makes a bit more of it than the actual novel. This was essentially a story of a miscreant and the misguided attempt to reprogram him to not be a thug. Had a great style to it.
+
+And Pet Semetery messed with me. I read it years ago, of course, but it delivers in very swift and clear ways the kind of dreadful events that I learned about from reading Gary Braunbeck's thoughts on writing horror. 
 
 
 
