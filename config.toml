@@ -1,7 +1,7 @@
 baseURL = "http://www.brichards.net/"
 languageCode = "en-us"
-title = "brian richards and his stuff"
-theme = "dream"
+title = "Brian Richards and his stuff"
+theme = "purehugo"
 [params]
     author = "Brian Richards"
     locale = "en-US"
