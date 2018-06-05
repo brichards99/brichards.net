@@ -1,7 +1,7 @@
 baseURL = "http://www.brichards.net/"
 languageCode = "en-us"
 title = "brian richards and his stuff"
-theme = 'hugo-theme-projecthub'
+theme = "hugo-alabaster-theme"
 [params]
     author = "Brian Richards"
     locale = "en-US"
