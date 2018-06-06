@@ -9,7 +9,7 @@ theme    = "dream-plus"
     description = "A collection of material related to my teaching, writing, and coding."
     motto = "Specialization is for insects"
     avatar = "bulb-514.jpg"
-    contentType = "posts" 
+    contentType = "post" 
 
 
 
