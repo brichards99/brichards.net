@@ -1,16 +1,16 @@
 baseURL = "http://www.brichards.net/"
 languageCode = "en-us"
 title = "Brian Richards and his stuff"
-theme    = "dream-plus"
+theme    = "dream"
 
 [params]
     author = "Brian Richards"
     locale = "en-US"
     description = "A collection of material related to my teaching, writing, and coding."
     motto = "Specialization is for insects"
-    avatar = "bulb514.jpg"
-    contentType = "post"
-    paginate = 10 
+    #avatar = "bulb514.jpg"
+    #contentType = "post"
+    #paginate = 10 
 
 
 
