@@ -9,3 +9,7 @@
 [submodule "themes/hugo-theme-robust"]
 	path = themes/hugo-theme-robust
 	url = https://github.com/dim0627/hugo_theme_robust.git
+
+[submodule "themes/hugo-phlat-theme"]
+	path = themes/hugo-phlat-theme
+	url = https://github.com/nraboy/hugo-phlat-theme.git

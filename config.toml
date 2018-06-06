@@ -1,26 +1,49 @@
 baseURL = "http://www.brichards.net/"
-languageCode = "en-us"
+languageCode            = "en-us"
 title = "Brian Richards and his stuff"
-theme    = "dream"
+theme                   = "hugo-phlat-theme"
 
-disqusShortname = "XYW"
+[permalinks]
+    post                = "/:year/:month/:slug/"
+    page                = "/:slug/"
+
+[taxonomies]
+    tag                 = "tags"
+    category            = "categories"
+
+# The header menu will appear as an inline-list at the top right of the page
+[[menu.header]]
+    name                = "Home"
+    weight              = 1
+    url                 = "/"
+
+[[menu.header]]
+    name                = "About"
+    weight              = 3
+    url                 = "/about/"
+
+# The footer menu will appear as an inline-list at the bottom left of the footer found at the bottom of the screen
+[[menu.footer]]
+    name                = "Privacy Policy"
+    weight              = 1
+    url                 = "/privacy-policy/"
 
 [params]
-  description = "This is site description"
-  dateformat = "Jan 2, 2006" # Optional
-  # Fonts settings.
-  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
-  fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
-  logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+    keywords            = ["default", "keywords", "if", "no", "front", "matter"]
+    description         = "and his stuff"
+    google_analytics    = "UA-XXXXX-YY"
+    google_adsense      = "ca-pub-XXXXXX"
+    disqus              = "shortname"
+    google_webmaster    = ""
+    bing_webmaster      = ""
+    alexa               = ""
+    favicon             = ""
 
-[params.author]
-  thumbnail = "/images/bulb514.jpg"
-  name = "Brian Richards"
-  description = "<p>Specialization is for insects</p>"
-  facebook = "https://www.facebook.com/brichards99"
-  twitter = "https://twitter.com/brichards99"
-  github = "https://github.com/brichards99"
-
-[outputs]
-page = [ "HTML"] # if you want AMP enable.
+# Social media icons and links that appear in the footer
+[social]
+    twitter             = "https://www.twitter.com/brichards99"
+    linkedin            = "https://www.linkedin.com/in/brian-richards-5ba472/"
+    instagram           = ""
+    reddit              = ""
+    email               = ""
 

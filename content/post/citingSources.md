@@ -9,7 +9,7 @@ author: Brian Richards
 
 When should you cite your sources?
 
-![researching a paper](/images/pexels-photo-239548.jpeg)
+![researching a paper](/pexels-photo-239548.jpeg)
 
 There are two reasons, for the most part, where a writer should say to himself or herself, “Hey, I should make sure I cite some references here.” The first and most important reason is a deliberate choice you’ve made to back up your own writing with someone else’s writing in order to make it clear that not only did you have a good idea, but your good idea can be supported by reading someone else’s thoughts on the subject you're talking about.
 
