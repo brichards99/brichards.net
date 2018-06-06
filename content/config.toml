@@ -1,0 +1,24 @@
+baseurl = "https://www.brichards.net/"
+title = "Brian Richards and his stuff"
+theme = "hugo_theme_robust"
+
+disqusShortname = "XYW"
+
+[params]
+  description = "A collection of stuff related to teaching, coding, and writing"
+  dateformat = "Jan 2, 2006" # Optional
+  # Fonts settings.
+  googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
+  fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
+  logofontfamily = "Lobster, cursive" # Optional, Override logo font.
+
+[params.author]
+  thumbnail = "images/bulb514.jpg"
+  name = "Brian Richards"
+  description = "<p>A collection of stuff related to teaching, coding, and writing</p>"
+  #facebook = "https://www.facebook.com/daisuke.tsuji.735"
+  twitter = "https://twitter.com/brichards99"
+  github = "https://github.com/brichards99"
+
+[outputs]
+page = [ "HTML"] # if you want AMP enable.
