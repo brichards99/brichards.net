@@ -6,6 +6,6 @@
 	path = themes/dream-plus
 	url = https://github.com/UtkarshVerma/hugo-dream-plus
 
-[submodule "themes/hugo_theme_robust"]
-	path = themes/hugo_theme_robust
+[submodule "themes/hugo-theme-robust"]
+	path = themes/hugo-theme-robust
 	url = https://github.com/dim0627/hugo_theme_robust.git
