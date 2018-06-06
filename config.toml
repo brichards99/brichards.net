@@ -14,7 +14,7 @@ disqusShortname = "XYW"
   logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 
 [params.author]
-  thumbnail = "bulb514.jpg"
+  thumbnail = "/images/bulb514.jpg"
   name = "Brian Richards"
   description = "<p>Specialization is for insects</p>"
   facebook = "https://www.facebook.com/brichards99"

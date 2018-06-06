@@ -9,7 +9,7 @@ author: Brian Richards
 
 Those who have had me for class before have seen this post before.
 
-![Cryptogram](/pexels-photo-207580.jpeg)
+![Cryptogram](/images/pexels-photo-207580.jpeg)
 
 An important part of every IT professional’s job is continuing education. For the most part we see this as attending conferences and signing up for classes related to new technologies, but one of the simplest (and cheapest) things is to simply stay informed. For anyone in this field, but infosec professionals in particular, Bruce Schneier’s Crypto-gram newsletter is an invaluable source of information about current events.
 
