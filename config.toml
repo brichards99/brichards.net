@@ -3,26 +3,24 @@ languageCode = "en-us"
 title = "Brian Richards and his stuff"
 theme    = "hugo-theme-robust"
 
+disqusShortname = "XYW"
+
 [params]
-    author = "Brian Richards"
-    locale = "en-US"
-    description = "A collection of material related to my teaching, writing, and coding."
-    motto = "Specialization is for insects"
-    avatar = "bulb514.jpg"
-    contentType = "post"
-    paginate = 10 
-
-[params.author]
-  thumbnail = "bulb514.jpg"
-  name = "Brian Richards"
-  description = "Brian has nearly twenty years of experience as a member of operations teams at Penn State University and Carnegie Mellon University in roles such as developer, system administrator, SAN administrator, and IT manager. Brian is currently contributing to a team supporting ServiceNow, a cloud-based IT Service Management platform, for CMU. At the same time he has been teaching courses in technology at several universities both on ground and online."
-
-
+  description = "This is site description"
+  dateformat = "Jan 2, 2006" # Optional
   # Fonts settings.
   googlefonts = "https://fonts.googleapis.com/css?family=Lobster|Lato:400,700" # Optional, Include google fonts.
   fontfamily = "Lato,YuGothic,'Hiragino Kaku Gothic Pro',Meiryo,sans-serif" # Optional, Override body font family.
   logofontfamily = "Lobster, cursive" # Optional, Override logo font.
 
+[params.author]
+  thumbnail = "bulb514.jpg"
+  name = "Brian Richards"
+  description = "<p>Specialization is for insects</p>"
+  facebook = "https://www.facebook.com/brichards99"
+  twitter = "https://twitter.com/brichards99"
+  github = "https://github.com/brichards99"
 
-    #rootlink = "/"
-    # rootlink specifies where Root in menu.html links to. If it's not set then baseurl will be used.
+[outputs]
+page = [ "HTML"] # if you want AMP enable.
+
