@@ -1,24 +1,6 @@
-baseurl         = "https://www.brichards.net/"
-theme           = "sp-minimal"
-languageCode    = "en-us"
-title           = "Brian Richards"
-disqusShortname = ""
-paginate        = 5
+baseURL = "http://www.brichards.net/"
+languageCode            = "en-us"
+title = "Brian Richards and his stuff"
+theme                   = "projecthub"
 
-[params]
-  title       = "SP-Minimal"
-  subtitle    = "Another Minimalist Theme for Hugo"
-  copyright   = "Released under the MIT license."
-  authorImage = "images/bulb514.jpg"
-
-  #"single" or "multi"
-  renderType = "single"
-  #"simple" or "original"
-  themeStyle = "simple"
-
-  googleAnalytics = ""
-
-  name = "EM"
-  description = "Brian Richards and his stuff"
-  pageNotFoundTitle = "404 - Page not found"
-
+paginate = 5
