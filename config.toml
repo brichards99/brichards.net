@@ -5,7 +5,7 @@ baseurl = "https://www.brichards.net"
 
 [params]
 description = "Brian Richards and his stuff"
-# logoimage = "images/bulb514.jpg"
+logoimage = "images/bulb514.jpg"
 # copyright = "always"
 
 # mathjax = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
