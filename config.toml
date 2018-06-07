@@ -1,4 +1,4 @@
-baseURL = "http://www.brichards.net/"
+baseURL = "https://www.brichards.net/"
 languageCode            = "en-us"
 title = "Brian Richards and his stuff"
 theme                   = "projecthub"
