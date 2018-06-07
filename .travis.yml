@@ -4,7 +4,11 @@ install:
 - pip install --user awscli
 script:
 - hugo version
+- hugo --theme=projecthub
 - make deploy
+
+
+
 branches:
   only:
   - master
