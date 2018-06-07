@@ -1,7 +1,7 @@
 baseurl         = "https://www.brichards.net/"
 theme           = "sp-minimal"
 languageCode    = "en-us"
-title           = "Brian Richards and his stuff"
+title           = "Brian Richards"
 disqusShortname = ""
 paginate        = 5
 
@@ -12,13 +12,13 @@ paginate        = 5
   authorImage = "images/bulb514.jpg"
 
   #"single" or "multi"
-  renderType = "multi"
+  renderType = "single"
   #"simple" or "original"
   themeStyle = "simple"
 
   googleAnalytics = ""
 
   name = "EM"
-  description = "Here is a description of your site."
+  description = "Brian Richards and his stuff"
   pageNotFoundTitle = "404 - Page not found"
 
