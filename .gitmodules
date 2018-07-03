@@ -2,3 +2,6 @@
 	path = themes/projecthub
 	url = https://github.com/vjeantet/hugo-theme-projecthub
 
+[submodule "projecthub"]
+	path = projecthub
+	url = https://github.com/vjeantet/hugo-theme-projecthub
