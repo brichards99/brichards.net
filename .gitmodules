@@ -1,3 +1,7 @@
+[submodule "themes/projecthub"]
+	path = themes/projecthub
+	url = https://github.com/vjeantet/hugo-theme-projecthub
+
 [submodule "themes/themes/projecthub"]
 	path = themes/themes/projecthub
 	url = https://github.com/vjeantet/hugo-theme-projecthub
