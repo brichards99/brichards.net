@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writing on brian richards and his stuff</title>
-    <link>http://www.brichards.net/tags/writing/</link>
-    <description>Recent content in Writing on brian richards and his stuff</description>
+    <title>Writing on Brian Richards and his stuff</title>
+    <link>https://www.brichards.net/tags/writing/</link>
+    <description>Recent content in Writing on Brian Richards and his stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 05 Feb 2018 15:09:14 -0500</lastBuildDate>
     
-	<atom:link href="http://www.brichards.net/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.brichards.net/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Citing Sources in academic papers</title>
-      <link>http://www.brichards.net/post/citingsources/</link>
+      <link>https://www.brichards.net/post/citingsources/</link>
       <pubDate>Mon, 05 Feb 2018 15:09:14 -0500</pubDate>
       
-      <guid>http://www.brichards.net/post/citingsources/</guid>
+      <guid>https://www.brichards.net/post/citingsources/</guid>
       <description>When should you cite your sources?
 There are two reasons, for the most part, where a writer should say to himself or herself, “Hey, I should make sure I cite some references here.” The first and most important reason is a deliberate choice you’ve made to back up your own writing with someone else’s writing in order to make it clear that not only did you have a good idea, but your good idea can be supported by reading someone else’s thoughts on the subject you&amp;rsquo;re talking about.</description>
     </item>

@@ -1,6 +1,6 @@
 ---
 title: "Books November 2017"
-date: 2017-11-31T15:28:05-04:00
+date: 2017-11-30T15:28:05-04:00
 draft: true
 ---
 

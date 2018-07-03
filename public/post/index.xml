@@ -1,34 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on brian richards and his stuff</title>
-    <link>http://www.brichards.net/post/</link>
-    <description>Recent content in Posts on brian richards and his stuff</description>
+    <title>Posts on Brian Richards and his stuff</title>
+    <link>https://www.brichards.net/post/</link>
+    <description>Recent content in Posts on Brian Richards and his stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Feb 2018 15:13:07 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jun 2018 13:40:17 -0400</lastBuildDate>
     
-	<atom:link href="http://www.brichards.net/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.brichards.net/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Books June 2018</title>
+      <link>https://www.brichards.net/post/books-june-2018/</link>
+      <pubDate>Sat, 30 Jun 2018 13:40:17 -0400</pubDate>
+      
+      <guid>https://www.brichards.net/post/books-june-2018/</guid>
+      <description>The following were books I finished reading during the month of June.
+ Lolita - Vladmir Nabokov The Last Jedi - Jason Fry Red Rain - R.L. Stine Zeroes - Chuck Wending The Outsider - Stephen King  So I was never an R.L. Stine guy, having been born about a decade late to really appreciate his books when I was the right age for them. I remember, however, the summer I worked at a Lutheran church camp near Hershey where the nine and ten year olds demanded that we read aloud from whichever Stine book they had brought along.</description>
+    </item>
+    
+    <item>
+      <title>Books May 2018</title>
+      <link>https://www.brichards.net/post/books-may-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 15:13:41 -0400</pubDate>
+      
+      <guid>https://www.brichards.net/post/books-may-2018/</guid>
+      <description>The following were books I finished reading during the month of May.
+ Jurassic Park - Michael Crichton Fahrenheit 451 - Ray Bradbury Something Wicked This Way Comes - Ray Bradbury Pet Semetery - Stephen King The Long Way to a Small, Angry Planet (Wayfarers) Casino Royale - Ian Fleming From Russia With Love - Ian Fleming A Clockwork Orange - Anthony Burgess Quiet - Susan Cain  What I discoverd this month was that Ian Fleming is a really fun writer.</description>
+    </item>
+    
+    <item>
       <title>Bruce Scheier&#39;s Cryptogram</title>
-      <link>http://www.brichards.net/post/cryptogram/</link>
+      <link>https://www.brichards.net/post/cryptogram/</link>
       <pubDate>Mon, 05 Feb 2018 15:13:07 -0500</pubDate>
       
-      <guid>http://www.brichards.net/post/cryptogram/</guid>
+      <guid>https://www.brichards.net/post/cryptogram/</guid>
       <description>Those who have had me for class before have seen this post before.
 An important part of every IT professional’s job is continuing education. For the most part we see this as attending conferences and signing up for classes related to new technologies, but one of the simplest (and cheapest) things is to simply stay informed. For anyone in this field, but infosec professionals in particular, Bruce Schneier’s Crypto-gram newsletter is an invaluable source of information about current events.</description>
     </item>
     
     <item>
       <title>Citing Sources in academic papers</title>
-      <link>http://www.brichards.net/post/citingsources/</link>
+      <link>https://www.brichards.net/post/citingsources/</link>
       <pubDate>Mon, 05 Feb 2018 15:09:14 -0500</pubDate>
       
-      <guid>http://www.brichards.net/post/citingsources/</guid>
+      <guid>https://www.brichards.net/post/citingsources/</guid>
       <description>When should you cite your sources?
 There are two reasons, for the most part, where a writer should say to himself or herself, “Hey, I should make sure I cite some references here.” The first and most important reason is a deliberate choice you’ve made to back up your own writing with someone else’s writing in order to make it clear that not only did you have a good idea, but your good idea can be supported by reading someone else’s thoughts on the subject you&amp;rsquo;re talking about.</description>
+    </item>
+    
+    <item>
+      <title>Its 350 Wk01_04_2017</title>
+      <link>https://www.brichards.net/post/its-350-wk01_04_2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.brichards.net/post/its-350-wk01_04_2017/</guid>
+      <description>ITS 350 Week One This post is intended for students in my ITS 350 Introduction to Computer Security course at Colorado State University. The majority of information related to the course is available within the course online, but I try to provide additional material like this week in order to bring my own experiences / web surfings / questions about the subject out into the open without diluting what the school has prepared in terms of course materials.</description>
     </item>
     
   </channel>
