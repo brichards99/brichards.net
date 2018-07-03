@@ -1,4 +1,4 @@
-[submodule "themes/crab"]
-	path = themes/crab
-	url = https://github.com/thomasheller/crab
+[submodule "themes/projecthub"]
+	path = themes/projecthub
+	url = https://github.com/vjeantet/hugo-theme-projecthub
 
