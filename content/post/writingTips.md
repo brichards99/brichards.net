@@ -1,7 +1,6 @@
-
 ---
 title: "Writing tips for my students"
-date: 2018-08-03T08:39:14-05:00
+date: 2018-08-03T15:13:07-05:00
 draft: false
 tags: ['student','writing']
 category: ['student']
