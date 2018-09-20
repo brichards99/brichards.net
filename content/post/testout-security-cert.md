@@ -7,6 +7,8 @@ And boy am I tired.
 
 Well that's not entirely true, but the exam took far longer than I had expected.
 
+![Testout Certifications](/images/to_certs.png)
+
 I am posting this summary for my students at CSU who will be taking this certification test after having completed all the Testout tutorials required for my IST 350 course. Each week the course works methodically through tutorials covering subjects from physical security to perimeter, network, and application issues. We cover very client-specific like completing tasks in Microsoft Group Policy Editor and Cisco switch management, and I suspect not a lot of my students have ever had their hands on these tools.
 
 And this certification exam really demands it.
