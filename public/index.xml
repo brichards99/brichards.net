@@ -6,10 +6,70 @@
     <description>Recent content on Brian Richards and his stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Jun 2018 13:40:17 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 12:08:53 -0400</lastBuildDate>
     
 	<atom:link href="https://www.brichards.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Books September 2018</title>
+      <link>https://www.brichards.net/post/books-september-2018/</link>
+      <pubDate>Mon, 01 Oct 2018 12:08:53 -0400</pubDate>
+      
+      <guid>https://www.brichards.net/post/books-september-2018/</guid>
+      <description>ServiceNow Developers Handbook - Tim Woodruff Knee-Deep in the Dead - Dafydd ab Hugh Batman Inferno - Alex Irvine Doom 3 - Matthew Costello  It was a pretty thin month for reading this September, but that&amp;rsquo;s okay. I had fun.
+The novelizations for the game Doom were candy-like cheap fun when I read them the first time through, and I digging into Knee-Deep in the Dead took me right back to those days of reading cheap paperbacks while crashed out on a pull-out sofa in my parents&amp;rsquo; basement.</description>
+    </item>
+    
+    <item>
+      <title>I just took the Testout Security Pro certification exam</title>
+      <link>https://www.brichards.net/post/testout-security-cert/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://www.brichards.net/post/testout-security-cert/</guid>
+      <description>And boy am I tired.
+Well that&amp;rsquo;s not entirely true, but the exam took far longer than I had expected.
+I am posting this summary for my students at CSU who will be taking this certification test after having completed all the Testout tutorials required for my IST 350 course. Each week the course works methodically through tutorials covering subjects from physical security to perimeter, network, and application issues. We cover very client-specific like completing tasks in Microsoft Group Policy Editor and Cisco switch management, and I suspect not a lot of my students have ever had their hands on these tools.</description>
+    </item>
+    
+    <item>
+      <title>Books August 2018</title>
+      <link>https://www.brichards.net/post/books-august-2018/</link>
+      <pubDate>Fri, 31 Aug 2018 08:00:17 -0400</pubDate>
+      
+      <guid>https://www.brichards.net/post/books-august-2018/</guid>
+      <description>The following were books I finished reading during the month of August.
+ The Little Sleep - Paul Tremblay The Wolfen - Whitely Strieber Green Lantern Sleepers Book 1 - Christopher Priest The Demon Awakens - R.A. Salvatore The Troop - Nick Cutter Ice Cold: A Rizzoli and Isles Nove - Tess Gerritsen  I thoroughly enjoyed the books I read this month, but the standout title for me has to be Ice Cold.</description>
+    </item>
+    
+    <item>
+      <title>Writing tips for my students</title>
+      <link>https://www.brichards.net/post/writingtips/</link>
+      <pubDate>Fri, 03 Aug 2018 15:13:07 -0500</pubDate>
+      
+      <guid>https://www.brichards.net/post/writingtips/</guid>
+      <description>Since I am in the middle of grading a large batch of final papers for a class I feel inspired to write down some tips for my future students (since these tips ain&amp;rsquo;t helping my current classes.)
+You earn your A’s in an online class through writing, plain and simple. Because most hands-on class activities are simply impractical, written papers and online discussion forums take up the bulk of how you’re evaluated in just about every online class, and certainly of every online class I teach.</description>
+    </item>
+    
+    <item>
+      <title>Books July 2018</title>
+      <link>https://www.brichards.net/post/books-july-2018/</link>
+      <pubDate>Tue, 31 Jul 2018 08:00:17 -0400</pubDate>
+      
+      <guid>https://www.brichards.net/post/books-july-2018/</guid>
+      <description>The following were books I finished reading during the month of July.
+ Any Man - Amber Tamblyn City of the Dead - Brian Keene The Cabin at the End of the World - Paul Tremblay Wonder Woman - Mythos - Carol Lay Thinking in Bets - Annie Duke The Honor of the Queen - David Weber Wayne of Gotham - Tracy Hickman Night of the Crabs - Guy N. Smith Final Crisis - Greg Cox The Hot Zone - Richard Preston  This month I took advantage of Humble Bundle&amp;rsquo;s DC Comics offering, which included a bunch of audiobooks from Graphic Audio.</description>
+    </item>
+    
+    <item>
+      <title>the one about why I made this blog in Hugo</title>
+      <link>https://www.brichards.net/post/whytheblog/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brichards.net/post/whytheblog/</guid>
+      <description>It seems that every blog (online diary, journal, self-loving website, etc) that I run across that has been redesigned in Hugo has a post early on about why it was redesigned in Hugo. This seems like a weird thing to do in the wide world of the web, since people are constantly changing the underlying technologies of their website without wasting a lot of time talking about it, but in my case Ima going to do that thing because there is a point to be made about why I have taken the time to do something other than Wordpress.</description>
+    </item>
     
     <item>
       <title>Books June 2018</title>
@@ -18,7 +78,7 @@
       
       <guid>https://www.brichards.net/post/books-june-2018/</guid>
       <description>The following were books I finished reading during the month of June.
- Lolita - Vladmir Nabokov The Last Jedi - Jason Fry Red Rain - R.L. Stine Zeroes - Chuck Wending The Outsider - Stephen King  So I was never an R.L. Stine guy, having been born about a decade late to really appreciate his books when I was the right age for them. I remember, however, the summer I worked at a Lutheran church camp near Hershey where the nine and ten year olds demanded that we read aloud from whichever Stine book they had brought along.</description>
+ Lolita - Vladmir Nabokov The Last Jedi - Jason Fry Red Rain - R.L. Stine Zeroes - Chuck Wending The Outsider - Stephen King The Old Man and the Sea - Ernest Hemingway  So I was never an R.L. Stine guy, having been born about a decade late to really appreciate his books when I was the right age for them.</description>
     </item>
     
     <item>
