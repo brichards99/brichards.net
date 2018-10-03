@@ -2,7 +2,7 @@
 title: "Books September 2018"
 date: 2018-10-01T12:08:53-04:00
 draft: false
-color "green"
+color: "green"
 icon: "book"
 ---
 
