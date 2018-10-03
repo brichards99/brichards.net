@@ -1,6 +1,6 @@
 baseURL = "https://www.brichards.net/"
 languageCode            = "en-us"
 title = "Brian Richards and his stuff"
-theme = "er"
+theme = "tinyce"
 
 paginate = 5
