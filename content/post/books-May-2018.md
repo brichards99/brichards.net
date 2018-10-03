@@ -2,8 +2,8 @@
 title: "Books May 2018"
 date: 2018-06-01T15:13:41-04:00
 draft: false
-color = "green"
-icon = "book"
+color: "green"
+icon: "book"
 ---
 ![Casino Royale](https://images-na.ssl-images-amazon.com/images/I/61fBjM6yIAL.jpg)
 

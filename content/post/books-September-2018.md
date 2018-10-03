@@ -2,8 +2,8 @@
 title: "Books September 2018"
 date: 2018-10-01T12:08:53-04:00
 draft: false
-color = "green"
-icon = "book"
+color "green"
+icon: "book"
 ---
 
 * [ServiceNow Developers Handbook - Tim Woodruff](https://www.amazon.com/gp/product/B07G8MFKXY/ref=kinw_myk_ro_title)

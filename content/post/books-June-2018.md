@@ -2,8 +2,8 @@
 title: "Books June 2018"
 date: 2018-06-30T13:40:17-04:00
 draft: false
-color = "green"
-icon = "book"
+color: "green"
+icon: "book"
 ---
 
 The following were books I finished reading during the month of June.
