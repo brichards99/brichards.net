@@ -6,6 +6,8 @@ tags: ['student','security']
 category: 'security'
 author: Brian Richards
 thumbnail:  '/images/pexels-photo-207580.jpeg'
+color = "gray"
+icon = "newspaper-o"
 ---
 
 Those who have had me for class before have seen this post before.

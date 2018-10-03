@@ -5,6 +5,8 @@ draft: false
 tags: ['student','writing']
 category: ['student']
 author: Brian Richards
+color = "blue"
+icon = "pencil"
 ---
 
 When should you cite your sources?

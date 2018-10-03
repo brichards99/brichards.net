@@ -2,6 +2,8 @@
 title: "I just took the Testout Security Pro certification exam"
 date: 2018-09-20T00:00:00-04:00
 draft: false
+color = "gray"
+icon = "certificate"
 ---
 And boy am I tired.
 

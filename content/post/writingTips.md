@@ -5,6 +5,8 @@ draft: false
 tags: ['student','writing']
 category: ['student']
 author: Brian Richards
+color = "blue"
+icon = "pencil"
 ---
 
 Since I am in the middle of grading a large batch of final papers for a class I feel inspired to write down some tips for my future students (since these tips ain't helping my current classes.)
