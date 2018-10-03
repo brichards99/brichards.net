@@ -11,15 +11,5 @@ theme                   = "tinyce-hugo-theme"
     tag                 = "tags"
     category            = "categories"
 
-# The header menu will appear as an inline-list at the top right of the page
-[[menu.header]]
-    name                = "Home"
-    weight              = 1
-    url                 = "/"
-
-[[menu.header]]
-    name                = "About"
-    weight              = 3
-    url                 = "/about/"
 
 
