@@ -62,6 +62,11 @@
   </url>
   
   <url>
+    <loc>https://www.brichards.net/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.brichards.net/tags/blogging/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -87,6 +92,11 @@
   <url>
     <loc>https://www.brichards.net/tags/security/</loc>
     <lastmod>2018-02-05T15:13:07-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.brichards.net/series/</loc>
     <priority>0</priority>
   </url>
   

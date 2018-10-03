@@ -1,7 +1,7 @@
 baseURL = "http://www.brichards.net/"
 languageCode            = "en-us"
 title = "Brian Richards and his stuff"
-theme                   = "tinyce-hugo-theme"
+theme                   = "tale"
 
 [permalinks]
     post                = "/:year/:month/:slug/"
