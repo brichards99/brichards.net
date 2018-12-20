@@ -1,6 +1,7 @@
 ---
 title: "Books April 2018"
 date: 2018-04-30T15:20:51-04:00
+tags: ['books']
 draft: true
 ---
 

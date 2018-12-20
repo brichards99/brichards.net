@@ -1,6 +1,7 @@
 ---
 title: "Books October 2017"
 date: 2017-10-31T15:27:59-04:00
+tags: ['books']
 draft: true
 ---
 

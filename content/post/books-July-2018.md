@@ -1,6 +1,7 @@
 ---
 title: "Books July 2018"
 date: 2018-07-31T08:00:17-04:00
+tags: ['books']
 draft: false
 ---
 

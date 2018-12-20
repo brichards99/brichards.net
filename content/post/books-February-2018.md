@@ -1,6 +1,7 @@
 ---
 title: "Books February 2018"
 date: 2018-02-28T15:23:26-04:00
+tags: ['books']
 draft: true
 ---
 Books finished during February 2018:

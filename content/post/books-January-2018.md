@@ -1,6 +1,7 @@
 ---
 title: "Books January 2018"
 date: 2018-01-31T15:24:54-04:00
+tags: ['books']
 draft: true
 ---
 I got 2018 off to a good start by reading the following this month:
