@@ -1,11 +1,12 @@
 baseURL = "https://www.brichards.net/"
 languageCode            = "en-us"
 title = "Brian Richards and his stuff"
-theme = "minimo"
-
+theme = "basics-master"
 paginate = 5
-
 enableEmoji = true
+
+[params]
+author = "Brian Richards"
 
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
