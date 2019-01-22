@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.brichards.net/post/books-september-2018/</loc>
+    <lastmod>2018-10-01T12:08:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brichards.net/post/testout-security-cert/</loc>
+    <lastmod>2018-09-20T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brichards.net/post/books-august-2018/</loc>
+    <lastmod>2018-08-31T08:00:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brichards.net/post/writingtips/</loc>
+    <lastmod>2018-08-03T15:13:07-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brichards.net/post/books-july-2018/</loc>
+    <lastmod>2018-07-31T08:00:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.brichards.net/post/whytheblog/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.brichards.net/post/books-june-2018/</loc>
     <lastmod>2018-06-30T13:40:17-04:00</lastmod>
   </url>
@@ -32,8 +62,19 @@
   </url>
   
   <url>
+    <loc>https://www.brichards.net/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.brichards.net/tags/blogging/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.brichards.net/</loc>
-    <lastmod>2018-06-30T13:40:17-04:00</lastmod>
+    <lastmod>2018-10-01T12:08:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -44,7 +85,7 @@
   
   <url>
     <loc>https://www.brichards.net/post/</loc>
-    <lastmod>2018-06-30T13:40:17-04:00</lastmod>
+    <lastmod>2018-10-01T12:08:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,20 +96,31 @@
   </url>
   
   <url>
+    <loc>https://www.brichards.net/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.brichards.net/tags/student/</loc>
-    <lastmod>2018-02-05T15:13:07-05:00</lastmod>
+    <lastmod>2018-08-03T15:13:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.brichards.net/tags/</loc>
-    <lastmod>2018-02-05T15:13:07-05:00</lastmod>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.brichards.net/tags/web/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.brichards.net/tags/writing/</loc>
-    <lastmod>2018-02-05T15:09:14-05:00</lastmod>
+    <lastmod>2018-08-03T15:13:07-05:00</lastmod>
     <priority>0</priority>
   </url>
   
