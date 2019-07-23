@@ -3,7 +3,7 @@ title: "Yay, me. ServiceNow Certified System Administrator once again"
 date: 2019-07-23T15:38:07-05:00
 draft: false
 tags: ['servicenow','certification']
-category: 'servicenow'
+category: ['servicenow']
 author: Brian Richards
 ---
 
