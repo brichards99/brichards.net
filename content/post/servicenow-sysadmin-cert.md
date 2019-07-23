@@ -1,11 +1,12 @@
 ---
 title: "Yay, me. ServiceNow Certified System Administrator once again"
-date: 2019-07-23T15:38:07-05:00
+date: 2019-07-23T10:40:17-04:00
 draft: false
 tags: ['servicenow','certification']
 category: ['servicenow']
 author: Brian Richards
 ---
+![Servicenow](https://images.app.goo.gl/JrqiRtL6wNR6fKAQ9)
 
 So earlier today I had a little bit of time because of an instance upgrade to kill, and so I decided to retake my ServiceNow Certified System Administrator certification. Which is kind of a mouthful, but it's just not that important to enough people for there to be a handy acronym like CCNA or SAT.
 
