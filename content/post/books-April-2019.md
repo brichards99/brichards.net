@@ -5,13 +5,15 @@ tags: ['books']
 draft: false
 ---
 
+![The Power of Habit](https://images.app.goo.gl/FQ7rxR4cvQ5LuArt5)
+
 I finished these books during the month of April, 2019.
 
-*[The Power of Habit: Why We Do What We Do in Life and Business - Charles Duhigg](https://www.amazon.com/gp/product/B0055PGUYU/ref=kinw_myk_ro_title)
-*[The Little Book of Hygge: Danish Secrets to Happy Living - Meik Wiking](https://www.amazon.com/gp/product/0062658808/ref=dbs_a_def_rwt_bibl_vppi_i0)
-*[The Lost Level - Brian Keene](https://www.amazon.com/gp/product/B00R1XAA9U/ref=kinw_myk_ro_title)
-*[Under the Empyrean Sky - Chuck Wendig](https://www.amazon.com/gp/product/B00C7XTOOG/ref=kinw_myk_ro_title)
-*[The Buddha Walks Into a Bar - Lodro Rinzler](https://www.amazon.com/gp/product/B00BPE416E/ref=dbs_a_def_awm_hsch_vapi_tkin_p1_i2)
+* [The Power of Habit: Why We Do What We Do in Life and Business - Charles Duhigg](https://www.amazon.com/gp/product/B0055PGUYU/ref=kinw_myk_ro_title)
+* [The Little Book of Hygge: Danish Secrets to Happy Living - Meik Wiking](https://www.amazon.com/gp/product/0062658808/ref=dbs_a_def_rwt_bibl_vppi_i0)
+* [The Lost Level - Brian Keene](https://www.amazon.com/gp/product/B00R1XAA9U/ref=kinw_myk_ro_title)
+* [Under the Empyrean Sky - Chuck Wendig](https://www.amazon.com/gp/product/B00C7XTOOG/ref=kinw_myk_ro_title)
+* [The Buddha Walks Into a Bar - Lodro Rinzler](https://www.amazon.com/gp/product/B00BPE416E/ref=dbs_a_def_awm_hsch_vapi_tkin_p1_i2)
 
 
 The Power of Habit fascinated me, and it's a book that I think I might go back to from time to time. I am very interested in understanding how people become the people they are, and I believe that there is a lot to be learned from the routine, habitual behaviors that are observable even without talking to them. I actually prefer not talking to them. 

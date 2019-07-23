@@ -1,6 +1,6 @@
 ---
 title: "Books January 2019"
-date: 2019-01-31T00:00:---04:00
+date: 2019-01-31T00:00:00-04:00
 tags: ['books']
 draft: false
 ---

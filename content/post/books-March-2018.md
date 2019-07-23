@@ -2,7 +2,7 @@
 title: "Books March 2018"
 date: 2018-03-30T15:21:38-04:00
 tags: ['books']
-draft: true
+draft: false
 ---
 Aided by a little extra travel time this month, here are the books I finished reading during March, 2018.
 

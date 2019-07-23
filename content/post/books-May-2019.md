@@ -7,6 +7,8 @@ color: "green"
 icon: "book"
 ---
 
+![The Consuming Fire](https://images.app.goo.gl/kkLAPxuU9actsmtRA)
+
 I finished these books during the month of May, 2019.
 
 *[Anansi Boys - Neil Gaiman](https://www.audible.com/pd/Anansi-Boys-Audiobook/B002V8LI0U?pf_rd_p=ae76b2bb-e63d-4a67-b357-dab3dee05ca1&pf_rd_r=3ESSG0DSS1TZA34RB8QJ&ref=a_lib_c4_libItem_B002V8LI0U)

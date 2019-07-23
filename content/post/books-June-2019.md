@@ -6,6 +6,8 @@ draft: false
 icon: "book"
 ---
 
+![10% Happier](https://images.app.goo.gl/gpvr4pvUwimLggfB9)
+
 The following were books I finished reading during the month of June.
 
 * [The God Gene - F.Paul Wilson](https://www.amazon.com/gp/product/B071X4N8DP/ref=kinw_myk_ro_title)
