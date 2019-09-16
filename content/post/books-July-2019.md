@@ -7,6 +7,8 @@ color: "green"
 icon: "book"
 ---
 
+<img src="https://images.app.goo.gl/DBgSmhTqovS6faBG9" alt="Quiet by Susan Cain">
+
 The following were books I finished reading during the month of July.
 
 * [Stranger Things Darkness on the Edge of Town - Adam Christopher](https://www.amazon.com/gp/product/B07K5ZZ3X3/ref=dbs_a_def_awm_hsch_vapi_tkin_p1_i0)

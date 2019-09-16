@@ -5,7 +5,7 @@ tags: ['books']
 draft: false
 ---
 
-![The Power of Habit](https://images.app.goo.gl/FQ7rxR4cvQ5LuArt5)
+<img src="https://images.app.goo.gl/FQ7rxR4cvQ5LuArt5" alt="the Power of Habit">
 
 I finished these books during the month of April, 2019.
 
