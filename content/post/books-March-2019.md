@@ -5,6 +5,8 @@ tags: ['books']
 draft: false
 ---
 
+![Leviathan Wakes](https://images-na.ssl-images-amazon.com/images/I/51%2BEaerSnvL.jpg)
+
 * [Leviathan Wakes - James S.A. Corey](https://www.amazon.com/gp/product/B0047Y171G/ref=kinw_myk_ro_title)
 * [Tribesmen: A Novella of Supernatural Cannibal Horror - Adam Cesare](https://www.amazon.com/gp/product/B07MJBY6V4/ref=kinw_myk_ro_title)
 * [Fear: Trump in the White House - Bob Woodward](https://www.amazon.com/Fear-Trump-White-Bob-Woodward-ebook/dp/B075RV48W3/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=)

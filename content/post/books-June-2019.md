@@ -6,7 +6,7 @@ draft: false
 icon: "book"
 ---
 
-<img alt="10% Happier" src="https://images.app.goo.gl/gpvr4pvUwimLggfB9">
+<img alt="10% Happier" src="https://images-na.ssl-images-amazon.com/images/I/41ZddvIrPtL._SY346_.jpg">
 
 The following were books I finished reading during the month of June.
 

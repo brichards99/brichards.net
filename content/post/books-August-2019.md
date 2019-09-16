@@ -7,7 +7,7 @@ color: "green"
 icon: "book"
 ---
 
-![For We Are Many](https://www.google.com/search?q=david+e+taylor+bobiverse&rlz=1C9BKJA_enUS788US790&hl=en-US&prmd=niv&sxsrf=ACYBGNRP6P1prTrrY5EhjyZiaBXReu9T5A:1568641214533&source=lnms&tbm=isch&sa=X&ved=2ahUKEwji9Pzyu9XkAhV_JzQIHQoKD2IQ_AUoAnoECA4QAg&biw=1112&bih=725&dpr=2#imgrc=_IBz0DP8Atm_dM)
+![For We Are Many](https://images-na.ssl-images-amazon.com/images/I/51vg-ZCrGnL.jpg)
 
 The following were books I finished reading during the month of August.
 

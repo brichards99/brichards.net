@@ -7,7 +7,7 @@ color: "green"
 icon: "book"
 ---
 
-![The Consuming Fire](https://images.app.goo.gl/kkLAPxuU9actsmtRA)
+![The Consuming Fire](https://images-na.ssl-images-amazon.com/images/I/51SX5APRP1L.jpg)
 
 I finished these books during the month of May, 2019.
 

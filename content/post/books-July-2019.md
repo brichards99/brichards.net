@@ -7,7 +7,7 @@ color: "green"
 icon: "book"
 ---
 
-<img src="https://images.app.goo.gl/DBgSmhTqovS6faBG9" alt="Quiet by Susan Cain">
+<img src="https://images-na.ssl-images-amazon.com/images/I/41W%2B%2BkKGB9L.jpg" alt="Quiet by Susan Cain">
 
 The following were books I finished reading during the month of July.
 
