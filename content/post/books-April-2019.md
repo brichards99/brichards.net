@@ -16,7 +16,7 @@ I finished these books during the month of April, 2019.
 * [The Buddha Walks Into a Bar - Lodro Rinzler](https://www.amazon.com/gp/product/B00BPE416E/ref=dbs_a_def_awm_hsch_vapi_tkin_p1_i2)
 
 
-The Power of Habit fascinated me, and it's a book that I think I might go back to from time to time. I am very interested in understanding how people become the people they are, and I believe that there is a lot to be learned from the routine, habitual behaviors that are observable even without talking to them. I actually prefer not talking to them. 
+The Power of Habit fascinated me, and it's a book that I think I might go back to from time to time. I am very interested in understanding how people become the people they are, and I believe that there is a lot to be learned from the routine, habitual behaviors that are observable even without talking to them. I actually prefer not talking to them. People are awful in general.
 
 The Little Book of Hygge simply made me want to move to somewhere Scandinavian. Anywhere, really. This book introduced to me a cozy metric that I now apply to many of the settings in my life.
 

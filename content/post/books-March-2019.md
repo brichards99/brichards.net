@@ -14,7 +14,7 @@ draft: false
 
 Leviathan Wakes -- which naturally is the lead off novel of the Expanse series -- certainly lived up to the hype. I was a bit hesitant to get started with because sometimes I just don't want to start a book that will feel like slog to get through, and often epic space novels are like that. Leviathan Wakes definitely did not lag, and it was not epic. I honestly can't characterize the length since I read it on Kindle and, more importantly, the story just never let up. Fascinating characters, intriguing plot. Very engaging premise. It certainly compelled me to want to keep going with the series.
 
-Fear was just something I felt like I needed to read. It turned out to be an enlightening and slightly messy pile of conversation excerpts and minor anecdotes, none of which were written to draw any particular conclusion. But it was easy to draw the concolusion that the subject of the book is a big, destructive dummy.
+Fear was just something I felt like I needed to read. It turned out to be an enlightening and slightly messy pile of conversation excerpts and minor anecdotes, none of which were written to draw any particular conclusion. But it was easy to draw the conclusion that the subject of the book is a big, destructive dummy.
 
 
 

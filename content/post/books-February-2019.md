@@ -14,5 +14,5 @@ Pretty light work this month. I had a lot going on with my job, so I was somewha
 
 I'll say this -- I love me some Scott Sigler. He's somewhat crude, especially in this Hunter Hunterson & Sons volume (which is really just a small collection of short stories.) But he's entertaining and always original. 
 
-Hack was a first for me. This was my virgin voyage with LitRPG, which is a genre of fiction that delivers a narrative version of role-playing. In this case it was a narrative story built around a handful of friends getting trapped in a virtual reality -ish role-playing video game. It was actually pretty fun.
+Hack was a first for me. This was my virgin voyage with LitRPG, a genre of fiction that delivers a narrative version of role-playing. In this case it was a narrative story built around a handful of friends getting trapped in a virtual reality -ish role-playing video game. It was actually pretty fun.
 
