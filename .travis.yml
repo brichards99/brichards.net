@@ -1,84 +1,22 @@
 language: go
 
-dist: bionic
-
-env:
-  global:
-    - CACHE_NAME=${TRAVIS_ARCH}
-    - GO111MODULE=on
-    - GOPROXY=https://proxy.golang.org
-    - HUGO_BUILD_TAGS=extended
-
-git:
-  depth: false
-
 go:
-  - "1.12.13"
-  - "1.13.4"
-  - master
-
-arch:
-  - amd64
-  - arm64
-
-os:
-  - linux
-  - osx
-  - windows
-
-jobs:
-  allow_failures:
-    - go: master
-    - arch: arm64
-  fast_finish: true
-  exclude:
-    - os: windows
-      go: master
-    - arch: arm64
-      os: osx
-    - arch: arm64
-      os: windows
-
-cache:
-  directories:
-    - $HOME/gopath/pkg/mod
-    - $HOME/.cache/go-build
-    - $HOME/Library/Caches/go-build
-    - $HOME/AppData/Local/go-build
-
-before_install:
-  - df -h
-    # https://travis-ci.community/t/go-cant-find-gcc-with-go1-11-1-on-windows/293/5
-  - if [ "$TRAVIS_OS_NAME" = "windows" ]; then
-        choco install mingw -y;
-        export PATH=/c/tools/mingw64/bin:"$PATH";
-    fi
-  - gem install asciidoctor
-  - type asciidoctor
+  - master # This uses automatically the latest version of go
 
 install:
-  - mkdir -p $HOME/src
-  - mv $TRAVIS_BUILD_DIR $HOME/src
-  - export TRAVIS_BUILD_DIR=$HOME/src/hugo
-  - cd $HOME/src/hugo
-  - go get github.com/magefile/mage
+  - go get github.com/spf13/hugo # This provides the latest version of Hugo to Travis CI
 
 script:
-  - go mod download || true
-  - mage -v test
-  - if [ "$TRAVIS_ARCH" = "amd64" ]; then
-        mage -v check;
-    else
-        HUGO_TIMEOUT=30000 mage -v check;
-    fi
-  - mage -v hugo
-  - ./hugo -s docs/
-  - ./hugo --renderToMemory -s docs/
-  - df -h
-branches:
-  only:
-  - master
-env:
-  global:
-  - secure: c2Kb5wAm6j561o3+X6aZVldAhj1+r5lczI4t6PcBmCglwUCE4Y1pk3zsust81aCDyzCMyQc+j+InGrX6S80SDsITc1P5yldKcwmB8ATAY58iTy4V+7L69oG+W1YYHLxaZ8g1K/1+7MHFNFf1PMWboVHABh/A2KRCtekOCGpFIhe8yjr1v9il3ZPP9sxyP3r+b20v1GflsLHy3VCSidCBuaTAAo6yPgjSNoGXB8gW1yGpVto23qOPrIGOa9AxeyBUDaiz0KIvYyMw7cvBWtIQuJjHXZAJNm3eMIcwcpjrRQnt3hjDPC/UxxptTcn5PBW7finpum62RH8BwNhHncD3vivsOXzbSEr2JrZlhPKxsZPLXZf8XnRV4i/PqfK09+bhAqjpPj/wg+dmDw0uQOPkPR1SQvM3mv2zmYVEHs8QPe+3rojU+o29em3xoxSRc6hinLs21liGt2s68Fu59ft9YZRHPZrmt08uXjrNnOnlkz4laYPLXwDQ/WYR/B/Orhce9yR0GRCI9qGz+88OqvGwNZf/wJKgasHZspMBWQhqvClFtWz2IFKXEIMTw7ayrW1npCVcmpLFVzMr4BxjXywxsp5v91Zlf/pOfSqyB832mUQfB3dUwM/ur5aV/7ynx0oEgjrBTqJ/b4dORMy5FwG+33MSz7hhTBCyUDX04MrNM2Q=
-  - secure: mn52Gq9H/cFWQhXI3iduqHaC24NvESENq7O8SqzT8evsTCnTuCmnMDgvtalmk0sgY7+pBEyKK+2ifweKzCAtoJ/GGSE7iBLyPMlHy0zEKFSZBWtWfFC2moUCE/s+zq/1Hxwi3e+o4CWCY8EzPzpVg/Ww0jsjku81l6Vs9m6qrdoPCiaDtJ9gksR6vMjSsekpcH4ufpzt5aFImsyFYJrMZsg0nfwRtz3/06cEjb9I+xEXrH8Gc1mVbdndmzWW9ZA6/m0RgK2BUOmoXfHh5edpNUg0XVzVgW1VUPvVsY8u6/phOclQPxbmX0rDQCqJ/EWdyBWjsXhVZjORTCF7xWDyOdmvKN5yvoqQ/7aYHHXnVUWOIHuJndrKm31PO+cQFJWdgWOSXGVk8veKYujTOWhTN8j5kV8Fo9ie7L5bkxgRQFPRHjkRDecqSFNEY2LKMXbvx8+ZNrX9uYqJiOINFfGVql79Ym3/OJEX5OW1AuowdRj/aD5f0k0vQAc+r0xY9S2ig9+4UKQtuuF0L8FIt1SVoBglzdvwXVFO2RurdwodLVPsKRd64TQ+YxBEjO0xTnu3PjpGz1cjDXrJWMTD0AiWOb2RdHgns9JzdjV+8gOqGLO8+G6Fx2jeeOtrnKsWHSLbRSXs0udGZ/WwxuL3BFzxpjDXlsQiVp+JqyMmq/pgsug=
+  - hugo # This commands builds your website on travis
+
+deploy:
+  local_dir: public # Default static site output dir for Hugo
+  repo: brichards99/brichards99.github.io # This is the slug of the repo you want to deploy your site to
+  target_branch: master # GitHub pages branch to deploy to (in other cases it can be gh-pages)
+  provider: pages
+  skip_cleanup: true
+  github_token: be321c8e877f072bb8358c706effeb07eb6f58b4
+  email: brichards99@gmail.com
+  name: "brichards99"
+  on:
+    branch: master
