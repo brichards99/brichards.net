@@ -15,7 +15,7 @@ deploy:
   target_branch: master # GitHub pages branch to deploy to (in other cases it can be gh-pages)
   provider: pages
   skip_cleanup: true
-  github_token: be321c8e877f072bb8358c706effeb07eb6f58b4
+  github_token: 88435e183b270be29089b05edf0c1a3600cfcb67
   email: brichards99@gmail.com
   name: "brichards99"
   on:
