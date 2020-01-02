@@ -1,8 +1,6 @@
 language: go
-
 go:
   - 1.7.1
-
 install:
 - go get -v https://github.com/gohugoio/hugo
 - pip install --user awscli
@@ -10,7 +8,6 @@ script:
 - hugo version
 - hugo
 - make deploy
-
 branches:
   only:
   - master
