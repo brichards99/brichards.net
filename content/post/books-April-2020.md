@@ -9,13 +9,13 @@ draft: false
 
 I finished these books during the month of April, 2020.
 
-*[The B-Team - John Scalzi](https://www.goodreads.com/book/show/16180352-the-b-team)
-*[Talking to Strangers - Malcolm Gladwell](https://www.goodreads.com/book/show/43848929-talking-to-strangers)
-*[Of Dice and Men - David Ewalt](https://www.goodreads.com/book/show/15803047-of-dice-and-men)
-*[The Rise of Skywalker - Rae Carson](https://www.goodreads.com/book/show/52306589-the-rise-of-skywalker)
-*[The Drawing of the Three - Stephen King](https://www.goodreads.com/book/show/5094.The_Drawing_of_the_Three)
-*[Berserk - Tim Lebbon](https://www.goodreads.com/book/show/152182.Berserk)
-*[The Time Machine - HG Wells](https://www.goodreads.com/book/show/17136.The_Time_Machine_The_Invisible_Man)
+* [The B-Team - John Scalzi](https://www.goodreads.com/book/show/16180352-the-b-team)
+* [Talking to Strangers - Malcolm Gladwell](https://www.goodreads.com/book/show/43848929-talking-to-strangers)
+* [Of Dice and Men - David Ewalt](https://www.goodreads.com/book/show/15803047-of-dice-and-men)
+* [The Rise of Skywalker - Rae Carson](https://www.goodreads.com/book/show/52306589-the-rise-of-skywalker)
+* [The Drawing of the Three - Stephen King](https://www.goodreads.com/book/show/5094.The_Drawing_of_the_Three)
+* [Berserk - Tim Lebbon](https://www.goodreads.com/book/show/152182.Berserk)
+* [The Time Machine - HG Wells](https://www.goodreads.com/book/show/17136.The_Time_Machine_The_Invisible_Man)
 
 This month I benefitted from some of the large warchest of pieces I had decided to pick up early in the pandemic. When lockdowns started to really affect people across the country there was a period of time when authors and publishers posted books either for free or at a deep discount to provide people with entertainment while being stuck at home. I must have picked up at least a dozen ebooks, and perhaps a half dozen audiobooks. Many of them were novellas or long form stories, but nonetheless good stuff.
 
