@@ -7,7 +7,7 @@ draft: false
 
 ![The Him Deep Down](https://images-na.ssl-images-amazon.com/images/I/514N7GIAqJL.jpg)
 
-* [THe Him Deep Down - Chad Lutzke and Terry M. West](https://www.goodreads.com/book/show/26248542-the-him-deep-down)
+* [The Him Deep Down - Chad Lutzke and Terry M. West](https://www.goodreads.com/book/show/26248542-the-him-deep-down)
 * [Breakshot - James Taylor](https://www.amazon.com/Break-Shot-First-Years-Taylor/dp/B081D93GP6/)
 * [THe Hunt for Red October - Tom Clancy](https://www.goodreads.com/book/show/19691.The_Hunt_for_Red_October)
 * [4th of July - James Patterson](https://www.goodreads.com/book/show/33668.4th_of_July?ac=1&)
