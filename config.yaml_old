@@ -2,7 +2,7 @@ baseURL: https://www.brichards.net/
 languageCode: en-us
 defaultContentLanguage: en
 title: Brian Richards, writer
-theme: blackburn
+theme: cupper
 enableGitInfo: true
 
 taxonomies:
