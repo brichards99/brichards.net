@@ -5,8 +5,8 @@ tags: ['books']
 draft: false
 ---
 
-*[Full Throttle by Joe Hill](https://www.amazon.com/gp/product/B078R3DGFT/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
-*[The Real Lolita by Weinman](https://www.amazon.com/gp/product/B076P91Z4D/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
+* [Full Throttle by Joe Hill](https://www.amazon.com/gp/product/B078R3DGFT/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
+* [The Real Lolita by Weinman](https://www.amazon.com/gp/product/B076P91Z4D/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
 
 I was somewhat disappointed in how much reading I was able to finish this month, although to be fair I've been working on several books simultaneously. So it's not like I wasn't reading . . . 
 
