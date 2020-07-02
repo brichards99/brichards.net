@@ -2,7 +2,7 @@ baseURL: https://www.brichards.net/
 languageCode: en-us
 defaultContentLanguage: en
 title: Brian Richards, writer
-theme: cupper
+theme: blackburn
 enableGitInfo: true
 
 taxonomies:
@@ -17,24 +17,27 @@ imaging:
 params:
   description: Brian Richards and his stuff.
   homeMetaContent: Brian Richards and his stuff.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: true
 
 menu:
-  nav:
+  menu.main:
     - name: Home
+      pre: <i class='fa fa-list fa-fw'></i>
       url: /
       weight: 1
     - name: Blog
+      pre: <i class='fa fa-list fa-fw'></i>    
       url: /post/
       weight: 2
     - name: Tags
+      pre: <i class='fa fa-list fa-fw'></i>    
       url: /tags/
       weight: 3
     - name: About
+      pre: <i class='fa fa-list fa-fw'></i>    
       url: /about/
       weight: 4
 
