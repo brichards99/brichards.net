@@ -5,8 +5,7 @@ tags: ['books']
 draft: false
 icon: "book"
 ---
-
-![Witching Hour Theater](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477361426l/32738753._SY475_.jpg"
+![Witching Hour Theater](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477361426l/32738753._SY475_.jpg")
 
 The following were books I finished reading during the month of July.
 

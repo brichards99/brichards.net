@@ -4,7 +4,7 @@ date: 2020-08-31T08:00:00-04:00
 tags: ['books']
 draft: false
 ---
-<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321692829l/613605.jpg" alt="The Traveling Vampire Show">
+![The Traveling Vampire Show](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321692829l/613605.jpg)
 
 * [Harry Potter and the Order of the Phoenix by J.K. Rowling](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix)
 * [The Obstacle is the Way by Ryan Holiday](https://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way)
