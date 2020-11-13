@@ -4,7 +4,7 @@ date: 2020-10-31T10:20:00-04:00
 tags: ['books']
 draft: false
 ---
-<img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585287103l/52880816.jpg" alt="The Raven" title="The Raven" width="350" height="540" />
+{{< figure src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585287103l/52880816.jpg" width="350">}}
 
 * [The Raven by Jonathan Janz](https://www.goodreads.com/book/show/52880816-the-raven)
 * [Paperbacks from Hell by Grady Hendrix](https://www.goodreads.com/book/show/33670466-paperbacks-from-hell)
