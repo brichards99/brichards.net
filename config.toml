@@ -13,7 +13,7 @@ disableKinds = ["taxonomyTerm"]
   dateFormat = "2006-01-02" 
   author = "Brian Richards"
   description = "a blog of reading and writing updates"
-  mainImage = "images/headshot3.jpg"
+  mainImage = "/images/headshot3.jpg"
 
 [params.introduction]
    text = "a blog of reading and writing updates"
@@ -22,22 +22,22 @@ disableKinds = ["taxonomyTerm"]
   [[params.social.list]]
   class = "fab"
   icon = "fa-linkedin-in"
-  url = "#"
+  url = "https://www.linkedin.com/in/brian-richards-5ba472/"
 
   [[params.social.list]]
   class = "fab"
   icon = "fa-github"
-  url = "#"
+  url = "https://github.com/brichards99"
 
   [[params.social.list]]
   class = "fab"
   icon = "fa-twitter"
-  url = "#"
+  url = "https://twitter.com/brichards99"
 
   [[params.social.list]]
   class = "fab"
-  icon = "fa-stack-overflow"
-  url = "#"  
+  icon = "fa-book"
+  url = "https://www.goodreads.com/user/show/3412458-brian"  
 
 [params.footer]
   message = "&copy; 2020"
