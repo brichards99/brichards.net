@@ -22,4 +22,4 @@ My wife had recommended Rob Lowe's 'Stories . . .' a while ago, and I finally ca
 
 Dune was everything I had hoped, and reading it was good motivation to consider other books in the series. It's obviously had a huge impact on science fiction and fantasy, and I could easily re-read it soon. So muuch in there, both in terms of story and world-building.
 
-Then there was The Traveling Vampire Show. I've not touched any of Richard Laymon's work before, and this one has frequently been mentioned as the one book I must read, although clearly his other works are supposed to be worth it too. I have to admit that it wasn't what I expected, and I really appreciated the gritty teen perspective on a curious story. A reall good experience.
+Then there was The Traveling Vampire Show. I've not touched any of Richard Laymon's work before, and this one has frequently been mentioned as the one book I must read, although clearly his other works are supposed to be worth it too. I have to admit that it wasn't what I expected, and I really appreciated the gritty teen perspective on a curious story. A really good experience.
