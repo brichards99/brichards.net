@@ -1,33 +1,43 @@
 baseurl = "https://www.brichards.net/"
 title = "Brian Richards, writer"
 languageCode = "en-us"
-theme = "blackburn"
+theme = "mero"
 author = "Brian Richards"
+description = "a blog of reading and writing updates"
 copyright = "&copy; always. All rights reserved."
-canonifyurls = true
 paginate = 10
 
-[indexes]
-  tag = "tags"
-  topic = "topics"
+disableKinds = ["taxonomyTerm"]
 
-[menu]
-  # Shown in the side menu.
-  [[menu.main]]
-    name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
-    weight = 1
-    identifier = "home"
-    url = "/"
-  [[menu.main]]
-    name = "Posts"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 2
-    identifier = "post"
-    url = "/post/"
-  [[menu.main]]
-    name = "About"
-    pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 3
-    identifier = "about"
-    url = "/about/"
+[params]
+  dateFormat = "2006-01-02" 
+  author = "Brian Richards"
+  description = "a blog of reading and writing updates"
+  mainImage = "images/headshot3.jpg"
+
+[params.introduction]
+   text = "a blog of reading and writing updates"
+
+[params.social]
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-linkedin-in"
+  url = "#"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-github"
+  url = "#"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-twitter"
+  url = "#"
+
+  [[params.social.list]]
+  class = "fab"
+  icon = "fa-stack-overflow"
+  url = "#"  
+
+[params.footer]
+  message = "&copy; 2020"
