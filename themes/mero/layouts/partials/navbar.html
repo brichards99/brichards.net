@@ -6,37 +6,17 @@
     >
       <a href="{{ `/` | relURL }}"><span>Home</span> </a>
     </div>
-    <div class="menu-item dropdown border border-warning bg-dark p-2">
-      <span class="dropbtn text-warning" onclick="toggleMenu(this)"
-        >Sections <i class="fas fa-angle-down"></i
-      ></span>
-      <div
-        class="dropdown-content p-2 bg-dark2 mt-2 rounded w-auto mt-1 d-none"
-        style="min-width: 200px;"
-      >
-        <ul class="list-unstyled">
-          {{ range .Site.Sections.ByWeight }}
-          {{ $thisSection := replace (replace .File.Dir "\\" "") "/" "" }}
-          {{ if not (in (slice "alltaxa" "archive") $thisSection) }}
-          <li class="pt-2">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </li>
-          {{ end }}
-          {{ end }}
-        </ul>
-      </div>
-    </div>
     <div class="menu-item border border-warning bg-dark p-2">
       <a
-        href="{{ `/alltaxa/` | relURL }}"
-        ><span>Taxa</span>
+        href="{{ `/about/` | relURL }}"
+        ><span>About</span>
       </a>
     </div>
     <div class="menu-item border border-warning bg-dark p-2"
     style="border-top-right-radius: 10px; border-bottom-right-radius: 10px;">
       <a
-        href="{{ `/archive/` | relURL }}"
-        ><span>Archive</span>
+        href="{{ `/publications/` | relURL }}"
+        ><span>Publications</span>
       </a>
     </div>
   </div>
