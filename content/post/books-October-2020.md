@@ -1,5 +1,5 @@
 ---
-title: "Books October 2019"
+title: "I'm a Bobiverse fan"
 date: 2020-10-31T10:20:00-04:00
 tags: ['books']
 draft: false

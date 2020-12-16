@@ -1,5 +1,5 @@
 ---
-title: "Books September 2020"
+title: "Stephen Graham Jones can tell a hell of a story"
 date: 2020-10-01T12:00:00-04:00
 tags: ['books']
 draft: false
@@ -12,3 +12,4 @@ draft: false
 * [The Only Good Indians by Stephen Graham Jones](https://www.goodreads.com/book/show/52180399-the-only-good-indians)
 
 Work has been ramping up for me, so I didn't get in as much reading this month as I would like. I will say that The Only Good Indians was really good, and delivered a different kind of a horror story than I've been reading. It was a good reminder that I have Jones' Last Final Girl on my Kindle waiting to be read, so I'll go pick that up next.
+

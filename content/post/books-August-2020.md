@@ -1,5 +1,5 @@
 ---
-title: "Books August 2020"
+title: "Alright, fine. Rob Lowe is more interesting than all of us."
 date: 2020-08-31T08:00:00-04:00
 tags: ['books']
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Books July 2020"
+title: "Paul Tremblay is fantastic, but Jonathan Janz will mess you up"
 date: 2020-07-31T08:00:00-04:00
 tags: ['books']
 draft: false
