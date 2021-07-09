@@ -1,8 +1,8 @@
 ---
-title: "Books April 2021"
+title: "Give me more Stephen King"
 date: 2021-04-30T00:00:01-04:00
 tags: ['books']
-draft: true
+draft: false
 ---
 
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370918050l/5094.jpg" alt="The Drawing of the Three">
@@ -18,11 +18,13 @@ I finished these books during the month of April, 2020.
 * [Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values by Robert M. Pirsig](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance)
 * [Bag of Bones by Stephen King](https://www.goodreads.com/book/show/6572589-bag-of-bones)
 
+A big month of reading. 
 
+First of all, it was the best part of the month to be able to read a new Stephen King book. Later was actually a touch shocking and of course really entertaining. Plus I have been trying to dig through a number of King's books I have fond memories of, and for some reason Bag of Bones has always stuck with me. There is a soft spot in my sentiments for cabins the woods, and this story about a haunted one told from the point of view of a haunted writer just feels really good. 
 
+On another note, did you know that the author of Planet of the Apes is also the author of the Bridge Over the River Kwai? There you go.
 
-
-
+Also, you have to go read Sapiens. It's big and covers a lot of territory, but the journey is worth it. 
 
 
 
